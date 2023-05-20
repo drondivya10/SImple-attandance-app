@@ -1,5 +1,8 @@
 # SImple attandance app
- 
+
+![image](https://github.com/drondivya10/SImple-attandance-app/assets/127487302/71965863-da21-45bb-b8ef-b0562552bdbe)
+
+
 Introduction
 This app simplifies the process of taking attendance in classroom. It has a very clean and elegant UI which is teacher-friendly.
 
